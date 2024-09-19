@@ -1,0 +1,8 @@
+.bg-body-tertiary {
+    background-color: chocolate !important;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-image: url(../img/banana.svg);
+}
